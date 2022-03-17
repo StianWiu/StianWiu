@@ -7,7 +7,7 @@ I am a very introverted person as all developers are, I love helping others with
 
 I am currently in the process of learning VueJS, but I already know NodeJS, Typescript, Lua, Python and a bit of ReactJs,
 
-Here are some projects you can check out
+Here are some of my projects you can check out
 
 * [Pykho.dev](https://pykho.dev) Made with ReactJs
 * [StianWiu.me](https://stianwiu.me) Made with plain html,css,js
