@@ -9,5 +9,4 @@ I am currently in the process of learning VueJS, but I already know NodeJS, Type
 
 Here are some of my projects you can check out
 
-* [Pykho.dev](https://pykho.dev) Made with ReactJs
-* [StianWiu.me](https://stianwiu.me) Made with plain html,css,js
+* [StianWiu.me](https://stianwiu.me) Made with plain Vue
