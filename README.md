@@ -1,12 +1,25 @@
 # Hello World
 
 Hi! My name is **Stian**, I'm a student & web developer from South-Eastern Norway.
+https://stianwiu.me
 
-I have been actively coding for a few years now, I code as a hobby but I'm working to become a full time developer in the near future.
-I am a very introverted person as all developers are, I love helping others without anything in return like developing websites or Discord bots etc.
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=stianwiu&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stianwiu&layout=compact&theme=tokyonight&langs_count=8)
+  
+</div>
 
-I am currently in the process of learning VueJS, but I already know NodeJS, Typescript, Lua, Python and a bit of ReactJs,
+<br>
 
-Here are some of my projects you can check out
+<p align="center">
+  <img width="500" src="https://metrics.lecoq.io/stianwiu" alt="Github Metrics"><br>
+</p>
 
-* [StianWiu.me](https://stianwiu.me) Made with plain Vue
+<br>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stianwiu" alt="Profile views"/>
+</div>
